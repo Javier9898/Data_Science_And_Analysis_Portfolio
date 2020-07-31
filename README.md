@@ -12,26 +12,25 @@ For a more visually pleasant experience browsing the portfolio, check out
 
 ## Contents
 
-
 ---
 
 * ### **Data Analysis and Visualization**
- * World Happiness Report: Analysis on what factors contribute to the happiness around the world.
+  - World Happiness Report: Analysis on what factors contribute to the happiness around the world.
 
  *Tools:  pandas, numpy, seaborn, matplotlib*
 
 * ### **Machine Learning**
- * Playlist Recommender Using Personal Spotify Data: Playlist recommender using personal Spotify data gathered through the Privacy Settings of Spotify and applying Machine Learning.
+  - Playlist Recommender Using Personal Spotify Data: Playlist recommender using personal Spotify data gathered through the Privacy Settings of Spotify and applying Machine Learning.
 
  *Tools:  pandas, numpy, seaborn, matplotlib, scikit-learn*
 
 * ### **Deep Learning**
- * Sports Recognition: Deep Learning model which determines the name of a sport based purely on an image shown of that sport.
+  - Sports Recognition: Deep Learning model which determines the name of a sport based purely on an image shown of that sport.
 
  *Tools:  pandas, numpy, matplotlib, fastai.vision*
 
 * ### **Business Intelligence**
- * Power Bi Dashboard: Coming soon...
+  - Power Bi Dashboard: Coming soon...
 
  *Tools:  Power BI*
 
