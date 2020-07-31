@@ -31,7 +31,11 @@ For a more visually pleasant experience browsing the portfolio, check out
 
 * ### **Business Intelligence**
   - Power Bi Dashboard: Coming soon...
-
+  
  *Tools:  Power BI*
+  
+* ### **Articles**
+  - World Happiness Report, A psychological approach: Coming soon...
+  - DS models: Coming soon...
 
 If you enjoy what you see and want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at <javier.jimenez98@hotmail.com>
