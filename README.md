@@ -8,7 +8,7 @@
 Personal portfolio of projects carried out for academic, self-learning and hobby purposes. Presented in the form of Google Colaboratory python notebooks.
 
 For a more visually pleasant experience browsing the portfolio, check out 
-[Javier9898.github.io](https://)
+[My Website](https://https://javier9898.github.io/)
 
 ## Contents
 
@@ -35,7 +35,8 @@ For a more visually pleasant experience browsing the portfolio, check out
  *Tools:  Power BI*
   
 * ### **Articles**
-  - World Happiness Report, A psychological approach: Coming soon...
-  - DS models: Coming soon...
+  - [World Happiness Report, A Psychological Approach](https://medium.com/@javier.jimenez98/world-happiness-report-a-psychological-approach-2e857884b79f?sk=64598be711658dbcc1ab3ddeec3948c8): Publication in coloaboration with psychologist Santosh Sachanandani were we write about happiness, what does it mean, how to achieve it.
+  
+  - [How To Choose The Right DBMS For Your Company](https://medium.com/@javier.jimenez98/how-to-choose-the-right-dbms-for-your-company-f53e0ed35fa9?sk=31937bae85be481493f033f39384d7a2): One must first start with a process of analysis about the specific needs of the organization when choosing the right DBMS. This article is a simple guide on the steps necessary to make the correct selection.
 
 If you enjoy what you see and want to have a chat with me about the portfolio, work opportunities, or collaboration, send me an email at <javier.jimenez98@hotmail.com>
